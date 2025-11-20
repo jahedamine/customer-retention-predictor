@@ -82,6 +82,3 @@ pip install -r requirements.txt
 
 Made by **Jahed Amine**  
 Vision : transformer des projets ML en solutions SaaS industrialisées, prêtes pour le marché.
-```
-
----
